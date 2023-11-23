@@ -1,0 +1,2 @@
+# checkers
+Play Checkers Online
